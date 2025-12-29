@@ -1,7 +1,7 @@
-##Task:
-##Create a basic HTML web page titled “My College Event” and apply CSS3 styling to enhance its appearance.
+## Task:
+## Create a basic HTML web page titled “My College Event” and apply CSS3 styling to enhance its appearance.
 
-###Assignment Points:
+### Assignment Points:
 
 1. Apply inline, internal, and external CSS to different elements and observe how style precedence works.
 
